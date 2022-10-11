@@ -7,9 +7,9 @@
 - 📫 Comment est ce que vous pouvez me joindre❓:thinking: C'est facile, ci-dessous 👇 mes contacts :
 
   * LinkedIn : https://www.linkedin.com/in/donatien-konan-75368312a/
-  * email : donatienkonan555@gmail.com
+  * Email : donatienkonan555@gmail.com
 
-  A bientôt !
+  Bonne lecture de mes projets et à bientôt !
 
 <!---:wave: 
 ONOKANA8/ONOKANA8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
