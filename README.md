@@ -1,10 +1,10 @@
-- 👋 Salut, moi c'est Donatien KONAN, nouvellement 🌱 **Data Scientist**.
+- 👋 Bonjour, moi c'est Donatien KONAN, nouvellement 🌱 **Data Scientist**.
 
 - 👀 Je suis très passionné par les domaines des chiffres, de la Tech et du traitement des données dans le but de leur donner un sens. 
-- 👇 D'ailleurs, j'ai travaillé au cours de ma dernière formation sur des projets concrets d'entreprise vraiment intéressants. Vous trouverez toutes mes réalisations dans les différents dépôts.
-- 💞️ Je suis actuellement en recherche d'emploi dans ce milieu et souhaite faire partie d'une équipe dynamique proposant davantage de projets passionnants qui me permettront de me perfectionner et pourquoi pas être force de proposition.
+- 👇 D'ailleurs, j'ai travaillé au cours de ma dernière formation sur des projets concrets vraiment intéressants basés en général sur des données issues de la banque mondiale et du site de compétition de data science Kaggle. Vous trouverez toutes mes réalisations dans les différents dépôts.
+- 💞️ Je suis actuellement en recherche d'emploi et souhaite faire partie d'une entreprise ayant une équipe dynamique proposant davantage de projets passionnants qui me permettront de mettre en pratique mes compétences, de me perfectionner tout en étant d'une grande aide pour sa croissance.
 
-- 📫 Comment est ce que vous pouvez me joindre❓:thinking: C'est facile, ci-dessous 👇 mes contacts :
+- 📫 Mes contacts 👇:
 
   * LinkedIn : https://www.linkedin.com/in/donatien-konan-75368312a/
   * Email : donatienkonan555@gmail.com
