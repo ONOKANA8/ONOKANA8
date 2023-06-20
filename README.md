@@ -1,4 +1,4 @@
-- 👋 Bonjour, je suis Donatien, **Data Scientist** et également physicochimiste spécialisé dans le domaine du stockage de l'énergie avec des connaissances sur les dispotifs tels que les accumulateurs électriques (Batteries Lithium-Ion, Supercondensateurs,...).
+- 👋 Bonjour, je suis Donatien, **Data Scientist** et également physicochimiste spécialisé dans le domaine du stockage de l'énergie avec des connaissances sur les dispotifs tels que les accumulateurs électriques (Batteries Lithium-Ion,...) et les supercondensateurs.
 
 - 👀 J'aime dégagé des données :chart_with_upwards_trend: du sens en apportant de vraies réponses à des problématiques métier pour aider à la prise de décision stratégique.
 
