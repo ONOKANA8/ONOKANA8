@@ -5,6 +5,8 @@
 - Je travaille sur des données issues du site de la banque mondiale et du site de compétition de data science Kaggle...
 
 - 💞️ En plus de ma passion pour l'analyse des données, j'ai aussi un intérêt pour le développement logiciel : de la création de modèle de Machine Learning à la mise en production / model Serving en passant par la création de Pipeline... :heart_eyes:
+  
+- Je m'intéresse également à la modélisation et à la simulation de systèmes éngergétiques.
 
 - Vous trouverez toutes mes réalisations dans les différents dépôts.
 
