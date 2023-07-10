@@ -2,7 +2,7 @@
 
 - 👀 J'aime dégagé des données :chart_with_upwards_trend: du sens en apportant de vraies réponses à des problématiques métier pour aider à la prise de décision stratégique.
 
-- Je travaille poour le moment sur des données issues de sites tels que ceux de la banque mondiale, de Kaggle,...
+- Je travaille pour le moment sur des données issues de sites tels que ceux de la banque mondiale, de Kaggle,...
 
 - 💞️ En plus de ma passion pour l'analyse des données, j'ai aussi un intérêt pour le développement logiciel : de la création de modèle de Machine Learning à la mise en production / model Serving en passant par la création de Pipeline... :heart_eyes:
   
