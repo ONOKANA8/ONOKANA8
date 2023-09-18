@@ -4,9 +4,7 @@
 
 - Je travaille pour le moment sur des données issues de sites tels que ceux de la banque mondiale, de Kaggle,...
 
-- 💞️ En plus de ma passion pour l'analyse des données, j'ai aussi un intérêt pour le développement logiciel : de la création de modèle de Machine Learning à la mise en production / model Serving en passant par la création de Pipeline... :heart_eyes:
-  
-- Je m'intéresse également à la modélisation et à la simulation de systèmes éngergétiques.
+- 💞️ En plus de ma passion pour l'analyse des données, j'ai aussi un intérêt pour la data engineering : ETL, Data Warehousing, Pyspark, HDFS, CI/CD, DataOps API, DataOps Isolation, clustering, ModelOps, Monitoring... :heart_eyes: Mes prochains projets vont très certainement mobiliser ces compétences.
 
 - Vous trouverez toutes mes réalisations dans les différents dépôts.
 
