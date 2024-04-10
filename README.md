@@ -4,9 +4,9 @@
 👀 Je m'intéresse aujourd'hui au vaste monde de la donnée, l'or brute de demain. Je suis passionné par la résolution des problématiques métier :chart_with_upwards_trend: afin d'éclairer sur des prises de décisions stratégiques et business.
 Je travaille sur des données issues de sites tels que ceux de la banque mondiale, de Kaggle et tout type de sources de données pouvant aider à créer des solutions data...
 
-💞️ J'ai une réelle passion pour la data mais aussi pour toutes ces technologies qui aide à la valoriser: ETL, Data Warehousing, Pyspark(calculs distibués), Hadoop, HDFS(stockage distribué), CI/CD(GitHub Actions), DataOps API, DataOps Isolation(docker), clustering, ModelOps, Monitoring(Airflow)... bref toutes ces technologies qui me font tourner la tête :heart_eyes:, je me lance dans des projets apportant des solutions à des problématiques réelles.
+💞️ J'ai une réelle passion pour la data mais aussi pour toutes ces technologies qui aident à la valoriser: ETL, Data Warehousing, Pyspark(calculs distibués), Hadoop, HDFS(stockage distribué), CI/CD(GitHub Actions), DataOps API, DataOps Isolation(docker), clustering, ModelOps, Monitoring(Airflow)... bref toutes ces technologies qui me font tourner la tête :heart_eyes:, je me lance dans des projets apportant des solutions à des problématiques réelles.
 
-Pour finir, mes projets tourneront probablement autour de l'environnement, de l'énergies et pourquoi pas de l'immobilier..., on va dire des sujets essentiels auxquels il est impensable de ne pas y réfléchir.
+Pour finir, mes projets tourneront probablement autour de l'environnement, des énergies renouvelables et pourquoi pas de l'immobilier..., on va dire des sujets essentiels auxquels il est impensable de ne pas y réfléchir.
 
 
 <!DOCTYPE html>
