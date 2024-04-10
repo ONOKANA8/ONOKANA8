@@ -1,10 +1,12 @@
 # Qui suis-je en quelques mots ?
-👋 Bonjour, je suis Donatien, **Data Scientist** et également physicochimiste spécialisé dans le domaine du stockage de l'énergie avec des connaissances sur les dispotifs tels que les accumulateurs électriques (Batteries Lithium-Ion,...) et les supercondensateurs.
+👋 Bonjour, je suis Donatien, **Data Scientist** et également physicochimiste spécialisé dans le domaine du stockage de l'énergie avec des compétences sur les dispositifs tels que les accumulateurs électriques (Batteries Lithium-Ion,...) et les supercondensateurs.
 
-👀 J'aime travailler avec les données et en dégager :chart_with_upwards_trend: du sens et ainsi apporter de vraies réponses à des problématiques métier afin d'éclairer sur des prises de décisions stratégiques et business.
+👀 Je m'intéresse aujourd'hui au vaste monde de la donnée, l'or brute de demain. Je suis passionné par la résolution des problématiques métier :chart_with_upwards_trend: afin d'éclairer sur des prises de décisions stratégiques et business.
 Je travaille sur des données issues de sites tels que ceux de la banque mondiale, de Kaggle et tout type de sources de données pouvant aider à créer des solutions data...
 
-💞️ J'ai une réelle passion pour la data et toutes ces technologies qui l'environnent : ETL, Data Warehousing, Pyspark, Hadoop, HDFS (calculs distibués), CI/CD(GitHub Actions), DataOps API, DataOps Isolation(docker), clustering, ModelOps, Monitoring(Airflow)... :heart_eyes: Je suis très autodidacte et de ce fait mes projets ici ont pour but d'apporter au mieux des solutions de problématiques réelles tout en me permettant de gagner en compétences sur les technologies sus-énumérées.
+💞️ J'ai une réelle passion pour la data mais aussi pour toutes ces technologies qui aide à la valoriser: ETL, Data Warehousing, Pyspark(calculs distibués), Hadoop, HDFS(stockage distribué), CI/CD(GitHub Actions), DataOps API, DataOps Isolation(docker), clustering, ModelOps, Monitoring(Airflow)... bref toutes ces technologies qui me font tourner la tête :heart_eyes:, je me lance dans des projets apportant des solutions à des problématiques réelles.
+
+Pour finir, mes projets tourneront probablement autour de l'environnement, de l'énergies et pourquoi pas de l'immobilier..., on va dire des sujets essentiels auxquels il est impensable de ne pas y réfléchir.
 
 
 <!DOCTYPE html>
